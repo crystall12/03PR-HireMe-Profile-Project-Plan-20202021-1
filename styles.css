@@ -1,0 +1,70 @@
+.All { 
+    font-family: 'Playfair Display SC', serif; 
+}
+
+.Basketball {
+   width:250px;
+   height:300px;
+}
+
+.column {
+  float: left;
+  width: 33.33%;
+    padding: 5px;
+}
+
+.row::after {
+  content: "";
+  clear: both;
+    display: table;
+}
+
+.Cooking {
+    width:250px;
+        height:200px;
+}
+
+.AboutMe {
+    text-align: center;
+    color: #ff00ff;
+}
+
+.Myfavoritehobbies {
+    text-align: center;
+    color: #0080ff;  
+}
+
+.Family {
+    width:250px;
+        height:200px;
+}
+
+.Phone {
+    width:350px;
+        height:200px;
+}
+
+.Ball {
+    width:250px;
+        height:250px;
+}
+
+.three { text-align: center;
+    color:#BE81F7;
+}   
+    
+.Myfuture {
+    text-align: center;
+    color: #ffe6e6;
+}
+
+.Why {
+    text-align: center;
+    color: #F78181;
+}
+
+body {
+    background-color: lightpink;
+}
+ 
+
